@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "50539744968",
+    "firebase_url": "https://tarea-1e8ea.firebaseio.com",
+    "project_id": "tarea-1e8ea",
+    "storage_bucket": "tarea-1e8ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50539744968:android:1c08a0d99e31ca6c",
+        "android_client_info": {
+          "package_name": "com.example.task_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50539744968-taeoctpccqeb6dgohputhl2127k5nne2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.task_manager",
+            "certificate_hash": "605793809e07bbee7f28b84fe671c5d6dd11f3ed"
+          }
+        },
+        {
+          "client_id": "50539744968-9iqn8oi2th36788va9dnud09pcfri2j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.task_manager",
+            "certificate_hash": "b10c166b42be15afb375a2ceefd9818b78d5dfad"
+          }
+        },
+        {
+          "client_id": "50539744968-5cmb1h0hgl9hl84qccb7nb3fge65qtdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYx2npJFE5K_M43fHy-ggjQbmDQhxuZFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50539744968-q65j69pa6i9omcq9ang1grb1n1o0s8pj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50539744968-7v2ngm86od929n0b60a8sppebm507s2k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskManager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

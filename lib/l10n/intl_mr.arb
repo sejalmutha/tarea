@@ -1,0 +1,98 @@
+{
+  "title": "स्वागत आहे",
+  "@title": {
+    "description": "message on home page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "continueButton": "सुरू",
+  "@continueButton": {
+    "description": "Button text on home page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "ईमेल",
+  "@email": {
+    "description": "Label for getting email",
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "पासवर्ड",
+  "@password": {
+    "description": "Label for getting password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginButton": "लॉगिन",
+  "@loginButton": {
+    "description": "Button text for login",
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUpButton": "साइन अप करा",
+  "@signUpButton": {
+    "description": "Button text for signup",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "खाते आहे का? लॉगिन",
+  "@login": {
+    "description": "Flat button text for login",
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUp": "नवीन खाते तयार करा",
+  "@signUp": {
+    "description": "Flat button text for signup",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cTitle": "ग्राहक यादी",
+  "@cTitle": {
+    "description": "Title on clients page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addButton": "नवीन ग्राहक",
+  "@addButton": {
+    "description": "Button text for adding clients",
+    "type": "text",
+    "placeholders": {}
+  },
+  "signOutButton": "साइन आउट",
+  "@signOutButton": {
+    "description": "Button text for sign out",
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "नाव",
+  "@name": {
+    "description": "Label for getting name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "submitButton": "सबमिट करा",
+  "@submitButton": {
+    "description": "Button text for submit",
+    "type": "text",
+    "placeholders": {}
+  },
+  "backButton": "मागे",
+    "@backButton": {
+      "description": "Button text for back",
+      "type": "text",
+      "placeholders": {}
+    },
+  "phoneNo": "दूरध्वनी क्रमांक",
+  "@phoneNo": {
+    "description": "Label for getting name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addUserButton": "वापरकर्ता जोडा",
+    "@addUserButton": {
+      "description": "Button text for adding clients",
+      "type": "text",
+      "placeholders": {}
+    }
+}

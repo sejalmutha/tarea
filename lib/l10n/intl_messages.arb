@@ -1,0 +1,99 @@
+{
+  "@@last_modified": "2019-06-24T13:58:35.582909",
+  "title": "Welcome",
+  "@title": {
+    "description": "message on home page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "continueButton": "Continue",
+  "@continueButton": {
+    "description": "Button text on home page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Label for getting email",
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Label for getting password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginButton": "Login",
+  "@loginButton": {
+    "description": "Button text for login",
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUpButton": "SignUp",
+  "@signUpButton": {
+    "description": "Button text for signup",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Have an account? Login",
+  "@login": {
+    "description": "Flat button text for login",
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUp": "Don't have an account? Sign up",
+  "@signUp": {
+    "description": "Flat button text for signup",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cTitle": "Clients list",
+  "@cTitle": {
+    "description": "Title on clients page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addButton": "Add Clients",
+  "@addButton": {
+    "description": "Button text for adding clients",
+    "type": "text",
+    "placeholders": {}
+  },
+  "signOutButton": "SignOut",
+  "@signOutButton": {
+    "description": "Button text for sign out",
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Name",
+  "@name": {
+    "description": "Label for getting name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "submitButton": "Submit",
+  "@submitButton": {
+    "description": "Button text for submit",
+    "type": "text",
+    "placeholders": {}
+  },
+  "backButton": "Back",
+  "@backButton": {
+    "description": "Button text for back",
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNo": "Phone no.",
+  "@phoneNo": {
+    "description": "Label for getting name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addUserButton": "Add Users",
+  "@addUserButton": {
+    "description": "Button text for adding clients",
+    "type": "text",
+    "placeholders": {}
+  }
+}
